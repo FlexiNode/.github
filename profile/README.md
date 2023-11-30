@@ -11,7 +11,32 @@ FlexiNode is an open-source initiative aimed at simplifying the creation of cust
 - **Community-Driven**: A project managed by the community for the community.
 - **Comprehensive Documentation**: Detailed guides for setup and use.
 
-## Getting Started
+## 🚀 Upcoming: Preparing Our First Release!
+
+We are excited to announce that the first official release of FlexiNode is currently in the works! This version will mark a significant milestone in our journey towards creating a modular and flexible server ecosystem.
+
+### What to Expect:
+- **Key Features**: [List some of the main features that will be available in this release.]
+- **Stability and Performance Enhancements**: We are committed to delivering a reliable and efficient experience.
+- **Comprehensive Documentation**: Detailed guides to help you get started quickly.
+
+### Stay Informed!
+To stay up-to-date on progress and the release announcement, keep an eye on:
+- **Our GitHub Page**: [GitHub Page URL]
+- **Our Newsletter**: [Link to subscribe to the newsletter, if available]
+- **Social Media**: Follow us on [LinkedIn/Twitter/Facebook] for real-time updates.
+
+### How You Can Help:
+- **Beta Testers**: If you're interested in becoming a beta tester, [instructions to join or contact information].
+- **Feedback**: Your feedback is invaluable! Feel free to open an issue for any feedback or suggestions.
+
+We are looking forward to unveiling what we've been working on and thank you for your ongoing support!
+
+---
+
+This section creates a positive anticipation around your first release and encourages the community to actively get involved, whether through beta testing, providing feedback, or simply staying informed about the latest developments.
+
+<!--- ## Getting Started
 
 To start using FlexiNode, clone this repository and follow the setup instructions.
 
@@ -47,7 +72,7 @@ Contributions are what make the open-source community such an amazing place to l
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+5. Open a Pull Request --->
 
 ## License
 
