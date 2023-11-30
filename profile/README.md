@@ -16,15 +16,20 @@ FlexiNode is an open-source initiative aimed at simplifying the creation of cust
 We are excited to announce that the first official release of FlexiNode is currently in the works! This version will mark a significant milestone in our journey towards creating a modular and flexible server ecosystem.
 
 ### What to Expect:
-- **Key Features**: [List some of the main features that will be available in this release.]
+- **Key Features**:
+  - Server that works with epoll
+  - http protocol manager with CGI
+  - configuration file analyzer
+  - log manager
+  - CLI
 - **Stability and Performance Enhancements**: We are committed to delivering a reliable and efficient experience.
 - **Comprehensive Documentation**: Detailed guides to help you get started quickly.
 
 ### Stay Informed!
 To stay up-to-date on progress and the release announcement, keep an eye on:
-- **Our GitHub Page**: [GitHub Page URL]
-- **Our Newsletter**: [Link to subscribe to the newsletter, if available]
-- **Social Media**: Follow us on [LinkedIn/Twitter/Facebook] for real-time updates.
+- **Our GitHub Page**: [https://github.com/FlexiNode]
+- **Our Newsletter**: [Upcoming]
+- **Social Media**: Follow us on [Upcoming] for real-time updates.
 
 ### How You Can Help:
 - **Beta Testers**: If you're interested in becoming a beta tester, [instructions to join or contact information].
