@@ -11,7 +11,7 @@ FlexiNode is an open-source initiative aimed at simplifying the creation of cust
 - **Community-Driven**: A project managed by the community for the community.
 - **Comprehensive Documentation**: Detailed guides for setup and use.
 
-## 🚀 Upcoming: Preparing Our First Release!
+## Upcoming: Preparing Our First Release!
 
 We are excited to announce that the first official release of FlexiNode is currently in the works! This version will mark a significant milestone in our journey towards creating a modular and flexible server ecosystem.
 
@@ -31,10 +31,6 @@ To stay up-to-date on progress and the release announcement, keep an eye on:
 - **Feedback**: Your feedback is invaluable! Feel free to open an issue for any feedback or suggestions.
 
 We are looking forward to unveiling what we've been working on and thank you for your ongoing support!
-
----
-
-This section creates a positive anticipation around your first release and encourages the community to actively get involved, whether through beta testing, providing feedback, or simply staying informed about the latest developments.
 
 <!--- ## Getting Started
 
