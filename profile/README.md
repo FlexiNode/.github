@@ -27,7 +27,7 @@ We are excited to announce that the first official release of FlexiNode is curre
 
 ### Stay Informed!
 To stay up-to-date on progress and the release announcement, keep an eye on:
-- **Our GitHub Page**: [https://github.com/FlexiNode]
+- **Our GitHub Page**: [http://github.com/FlexiNode]
 - **Our Newsletter**: [Upcoming]
 - **Social Media**: Follow us on [Upcoming] for real-time updates.
 
