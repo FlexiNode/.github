@@ -1,7 +1,3 @@
-Certainly, here's the rewritten README for your project in English.
-
----
-
 # FlexiNode
 
 ## About The Project
@@ -63,6 +59,3 @@ Your Name - [matthisdqb@icloud.com]
 
 Project Link: [https://github.com/ticafblanc]
 
----
-
-Remember to customize this template according to the specifics and requirements of your project. Best of luck with your open-source project!
